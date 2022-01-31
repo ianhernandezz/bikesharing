@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignore OG file
+201908-citibike-tripdata.csv
+
+# ignore new file 
+new_201908-citibike-tripdata.csv
+
+
 # C extensions
 *.so
 
