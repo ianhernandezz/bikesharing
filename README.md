@@ -16,6 +16,9 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 
 
 # Results
+ 
+To see, please visit [link to dashboard](https://public.tableau.com/app/profile/ian4223/viz/Bikesharing_NYC_Story/Story1?publish=yes)
+
 
 **Starting Location by Popularity**
 
