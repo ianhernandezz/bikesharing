@@ -68,4 +68,15 @@ To see, please visit [link to dashboard](https://public.tableau.com/app/profile/
 
 # Summary
 
+After further examining these results, it can be determined that in cities such as NYC, this bike system/program is very popular and effective. It is clear that mostly males are the ones using these methods of transportation. It can be dedused that this system works so well in NYC is because people don't have to own the bikes much less worry about parking since they will be usin the bike. 
+
+**SUGGESTIONS:**
+
+**1.**  Use the data to create a visual that provides the money produced on these bikes to see where possible upgrades can be made to the bikes all togethe to improve ease of use and a better more comfortable experience. 
+
+**2.**  Use the data to create a supply and demand chart to see where are more bikes needed to concentrate where the money making opportunities, but also increase satisfaction of the user as there will be more available in the more dense areas of use. 
+ 
+
+
+
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
